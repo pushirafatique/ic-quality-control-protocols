@@ -15,6 +15,7 @@ Localized hardness measurements shall be taken at the following specific sites o
 - **Site 1:** Geometric center of the pad.
 - **Site 2:** 10 µm from the north‑west edge of the pad.
 - **Site 3:** 10 µm from the south‑east edge of the pad.
+- **Site 4:** 5 µm from the geometric center toward the expected bond wire attachment location (simulating bond wire stress).
 
 ## Acceptance Criteria
 The Vickers Hardness (HV) of the gold bonding pads must fall within the range **80 HV – 95 HV**. Measurements outside this range indicate non‑conformance and shall trigger a failure investigation.
@@ -25,7 +26,7 @@ The Vickers Hardness (HV) of the gold bonding pads must fall within the range **
 3. Position the indenter tip at the first measurement site (center).
 4. Apply the standard test load (e.g., 10 mN) and hold for 10 seconds.
 5. Record the hardness value displayed by the NHT software.
-6. Repeat steps 3–5 for Sites 2 and 3.
+6. Repeat steps 3–5 for Sites 2, 3, and 4.
 7. Compare each measured HV value against the acceptance range.
 8. Document all results in the quality‑control log sheet.
 
